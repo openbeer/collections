@@ -21,6 +21,6 @@ Aass Juleøl, 6.2%, dunkler_bock
   
 # Brasserie des Rocs (formerly known as Brasserie de l'Abbaye des Rocs
 
-Blanche des Honnelles, 6%, belgian_witbeer
+Blanche des Honnelles, 6%, belgian_witbier
 Abbaye des Rocs Brune, 9%, dunkles_starkbier 
 
