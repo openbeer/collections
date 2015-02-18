@@ -3,12 +3,13 @@
 
 
 [Aass Bryggeri]
-  Ole Steens Gate 10 // 3007 Drammen  
-  Østlandet › Buskerud › Norway
+  Ole Steens Gate 10 // 3007 Drammen
+  Buskerud › Østlandet › Norway
   www.aass.no
 
 # Norways's oldest brewery, 1834
 #  Bryggeri -- is norwegian for brewery
+#  Østlandet -- is norwegian for eastern norway (region)
 
 Aass Bock,  6.5%, dunkler_bock
 Aass Juleøl, 6.2%, dunkler_bock
@@ -16,11 +17,90 @@ Aass Juleøl, 6.2%, dunkler_bock
 
 [Abbaye des Rocs]
   Chaussée Brunehault 37 // 7387 Montignies-sur-Roc
-  Hainaut › Belgium
+  Hainaut › Wallonie › Belgium
   www.abbaye-des-rocs.com
   
 # Brasserie des Rocs (formerly known as Brasserie de l'Abbaye des Rocs
 
 Blanche des Honnelles, 6%, belgian_witbier
 Abbaye des Rocs Brune, 9%, dunkles_starkbier 
+
+
+[Achelse Kluis]
+  De Kluis 1 // De Sint-Benedictusabdij // 3930 Hamont-Achel
+  Limburg › Vlaanderen › Belgium
+  www.achelsekluis.org
+
+# De Sint-Benedictusabdij -- in dutch is Saint-Benedictus Abbey
+
+Achel 8 Bruin, 8%, trappist
+Achel Extra Bruin, 9.5%,  trappist
+
+
+[Airbräu]
+  Terminalstraße Mitte 18 // München Airport Center // 85356 München
+  Oberbayern › Bayern › Germany
+  www.airbraeu.de
+
+Fliegerquell Helles, 5.2%, lager|unfiltriert
+Kumulus Weißbier,    5.4%, weissbier
+
+
+[Aktienbrauerei]
+  Hohe Buchleuthe 3 // 87600 Kaufbeuren
+  Schwaben › Bayern › Germany
+  www.aktienbrauerei.de
+
+# Aktienbrauerei Kaufbeuren (ABK)
+
+Kellerbier Naturtrüb, 5.1%, kellerbier
+Fendt Dieselrossöl,   5.9%, maerzen
+
+
+[A. Le Coq]
+  Laulupeo Pst 15 // 50050 Tartu
+  Tartu › Estonia
+  www.alecoq.ee
+
+A. Le Coq Porter,      6.5%, porter
+A. Le Coq Double Bock,   7%, bock
+
+
+[Alhambra]
+  Avenida de Murcia 1 // 18012 Granada
+  www.cervezasalhambra.es
+  Andalucía › Spain
+
+Alhambra Premium Lager, 4.6%, lager
+Mezquita,               7.2%, weizenbier
+
+
+[Allersheim]
+  Allersheim 6 // 37603 Holzminden
+  Niedersachsen › Germany
+  www.brauerei-allersheim.de
+
+Allersheimer Landbier, 5%, pilsner
+##  Allersheimer Blue Moon, 1.9%, colabiermix  ## Cola-Bier-Mix
+
+
+[Almond 22]
+  Via Colle di Mezzo 25 // 65010 Spoltore
+  www.birraalmond.com
+  Pescara › Abruzzo › Italy
+
+##  Birra Almond '22
+
+Torbata,  8.7%, barleywine
+Farrotta, 5.7%, dinkelbier
+
+
+[Alpirsbach]
+  Marktplatz 1 // 72275 Alpirsbach
+  Baden-Württemberg › Germany
+  www.alpirsbacher.de
+## Alpirsbacher Klosterbräu
+
+Alpirsbacher Klosterbräu Kleiner Mönch,  5.2%, lager
+Alpirsbacher Klosterbräu Schwarzes Pils, 4.9%, pilsner    ## note: no longer available
 
