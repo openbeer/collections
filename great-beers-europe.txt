@@ -15,12 +15,10 @@ Aass Bock,  6.5%, dunkler_bock
 Aass Juleøl, 6.2%, dunkler_bock
 
 
-[Abbaye des Rocs]
+[Abbaye des Rocs]   ## Brasserie des Rocs (formerly known as Brasserie de l'Abbaye des Rocs
   Chaussée Brunehault 37 // 7387 Montignies-sur-Roc
   Hainaut › Wallonie › Belgium
   www.abbaye-des-rocs.com
-  
-# Brasserie des Rocs (formerly known as Brasserie de l'Abbaye des Rocs
 
 Blanche des Honnelles, 6%, belgian_witbier
 Abbaye des Rocs Brune, 9%, dunkles_starkbier 
@@ -42,16 +40,14 @@ Achel Extra Bruin, 9.5%,  trappist
   Oberbayern › Bayern › Germany
   www.airbraeu.de
 
-Fliegerquell Helles, 5.2%, lager|unfiltriert
-Kumulus Weißbier,    5.4%, weissbier
+Fliegerquell (Helles), 5.2%, lager|unfiltriert
+Kumulus (Weißbier),    5.4%, weissbier
 
 
-[Aktienbrauerei]
+[Aktienbrauerei]   ## Aktienbrauerei Kaufbeuren (ABK)
   Hohe Buchleuthe 3 // 87600 Kaufbeuren
   Schwaben › Bayern › Germany
   www.aktienbrauerei.de
-
-# Aktienbrauerei Kaufbeuren (ABK)
 
 Kellerbier Naturtrüb, 5.1%, kellerbier
 Fendt Dieselrossöl,   5.9%, maerzen
@@ -84,22 +80,22 @@ Allersheimer Landbier, 5%, pilsner
 ##  Allersheimer Blue Moon, 1.9%, colabiermix  ## Cola-Bier-Mix
 
 
-[Almond 22]
-  Via Colle di Mezzo 25 // 65010 Spoltore
+[Almond 22]    ##  Birra Almond '22
+  Contrada Remartello 47/H // 65014 Loreto Aprutino
   www.birraalmond.com
   Pescara › Abruzzo › Italy
 
-##  Birra Almond '22
+## old address (until 2014?): Via Colle di Mezzo 25 // 65010 Spoltore
 
 Torbata,  8.7%, barleywine
 Farrotta, 5.7%, dinkelbier
 
 
-[Alpirsbach]
+[Alpirsbach]   ## Alpirsbacher Klosterbräu
   Marktplatz 1 // 72275 Alpirsbach
   Baden-Württemberg › Germany
   www.alpirsbacher.de
-## Alpirsbacher Klosterbräu
+
 
 Alpirsbacher Klosterbräu Kleiner Mönch,  5.2%, lager
 Alpirsbacher Klosterbräu Schwarzes Pils, 4.9%, pilsner    ## note: no longer available
