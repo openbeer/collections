@@ -96,7 +96,60 @@ Farrotta, 5.7%, dinkelbier
   Baden-Württemberg › Germany
   www.alpirsbacher.de
 
-
 Alpirsbacher Klosterbräu Kleiner Mönch,  5.2%, lager
 Alpirsbacher Klosterbräu Schwarzes Pils, 4.9%, pilsner    ## note: no longer available
+
+
+[Altöttinger]   ## Altöttinger Hell-Bräu
+  Herrenmühlstraße 15 // 84503 Altötting
+  Oberbayern › Bayern › Germany
+  www.hellbraeu.de
+
+Altöttinger Bayrisch Dunkel, 5.2%, dunkel
+Altöttinger Fein-Herb, 5%, lager
+
+
+[Amber]    ## Browar Amber
+  Bielkówko // ul. Gregorkiewicza 1 // 83-050 Kolbudy
+  Gdańsk › Pomorskie [Pomeranian] › Poland
+  www.browar-amber.pl
+
+Koźlak, 6.5%, dunkler_bock
+Żywe,   6.2%, pilsner
+
+
+[Andechs]  ## Klosterbrauerei Andechs
+  Bergstr. 2 // 82346 Andechs
+  Oberbayern › Bayern › Germany
+  www.andechs.de
+
+Andechser Bergbock Hell, 7%, bock
+Andechser Doppelbock Dunkel, 7%, dunkler_bock
+
+
+[Anker]  ## Brouwerij Het Anker
+  Guido Gezellelaan 49 // 2800 Mechelen
+  Antwerpen › Vlaanderen › Belgium
+  www.hetanker.be
+
+Gouden Carolus Classic,    8.5%, strong_dark_ale
+Gouden Carolus Christmas, 10.5%, strong_dark_ale
+
+
+[Ankerbrauerei Nördlingen]   ## Ankerbräu
+  Ankergasse 4 // 86720 Nördlingen
+  www.ankerbrauerei.de
+  Schwaben › Bayern › Germany
+
+Ankerbräu Lager Hell, 5%, lager
+Nördlinger Premium Pils, 4.7%, pilsner
+
+
+[Apatinska Pivara]
+  Trg oslobodjenja 5 // 25260 Apatin
+  www.jelenpivo.com
+  West Bačka › Vojvodina › Serbia
+
+Jelen Pivo, 5%, lager
+Apatinsko Pivo, 5%, lager
 
